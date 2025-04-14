@@ -1,0 +1,20 @@
+John Doe,1234567890,john.doe@email.com,123 Elm St,Cape Town,Pizza Palace,Extra cheese on all pizzas.,Pepperoni Pizza|Cheese Pizza
+Jane Smith,0987654321,jane.smith@email.com,456 Oak St,Durban,Sushi World,No wasabi with sushi.,Salmon Roll|California Roll
+Michael Johnson,1122334455,michael.j@email.com,789 Pine St,Johannesburg,Burger Hub,none,Cheeseburger|Fries|Coke
+Emily Davis,2233445566,emily.d@email.com,321 Maple St,Potchefstroom,Taco Fiesta,Mild spice level for all items.,Taco Supreme|Burrito
+David Wilson,3344556677,david.w@email.com,654 Cedar St,Bloemfontein,Pizza Palace,none,Margherita Pizza
+Sarah Brown,4455667788,sarah.b@email.com,987 Birch St,Namibia,Sushi World,none,Dragon Roll|Sashimi|Miso Soup
+Daniel Martinez,5566778899,daniel.m@email.com,741 Willow St,Witbank,Burger Hub,Extra BBQ sauce on the burger.,Bacon Burger|Onion Rings|Milkshake
+Jessica White,6677889900,jessica.w@email.com,159 Spruce St,Port Elizabeth,Taco Fiesta,No cinnamon on churros.,Churros|Taco Supreme
+Matthew Harris,7788990011,matthew.h@email.com,357 Cypress St,Cape Town,Pizza Palace,Cut Hawaiian pizza into smaller slices.,Hawaiian Pizza|Garlic Knots
+Olivia Thompson,8899001122,olivia.t@email.com,753 Fir St,Durban,Sushi World,none,Spicy Tuna Roll|Edamame
+William Anderson,9900112233,william.a@email.com,951 Redwood St,Johannesburg,Burger Hub,none,BBQ Burger|Curly Fries
+Sophia Garcia,1011121314,sophia.g@email.com,258 Hemlock St,Springbok,Taco Fiesta,Extra guacamole for quesadilla.,Quesadilla|Taco Supreme|Chips & Salsa
+James Thomas,1112131415,james.t@email.com,369 Mahogany St,Bloemfontein,Pizza Palace,none,Cheese Pizza|Breadsticks
+Isabella Martinez,1213141516,isabella.m@email.com,147 Palm St,Port Elizabeth,Sushi World,none,California Roll|Tempura Shrimp
+Ethan Robinson,1314151617,ethan.r@email.com,963 Sequoia St,Witbank,Burger Hub,Fries instead of nuggets if unavailable.,Cheeseburger|Nuggets
+Mia Lewis,1415161718,mia.l@email.com,753 Cherry St,Cape Town,Taco Fiesta,none,Taco Supreme|Nachos|Burrito
+Benjamin Clark,1516171819,benjamin.c@email.com,369 Hickory St,Potchefstroom,Pizza Palace,Add chillies,Meat Lovers Pizza
+Ava Walker,1617181920,ava.w@email.com,159 Poplar St,Bloemfontein,Sushi World,none,Salmon Roll|Sashimi
+Alexander Hall,1718192021,alexander.h@email.com,357 Sycamore St,Witbank,Burger Hub,none,Double Cheeseburger|Coke|Fries
+Charlotte Young,1819202122,charlotte.y@email.com,951 Ash St,Potchefstroom,Taco Fiesta,Enchiladas with extra cheese.,Enchiladas|Quesadilla

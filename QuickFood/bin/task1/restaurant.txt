@@ -1,0 +1,4 @@
+Pizza Palace,50573614,Cape Town,Pepperoni Pizza#149.99|Cheese Pizza#129.99|Margherita Pizza#139.99|Hawaiian Pizza#159.99|Garlic Knots#49.99|Breadsticks#39.99|Meat Lovers Pizza#179.99
+Sushi World,90983614,Durban,Salmon Roll#179.99|California Roll#169.99|Dragon Roll#199.99|Sashimi#219.99|Miso Soup#49.99|Spicy Tuna Roll#189.99|Edamame#69.99|Tempura Shrimp#159.99
+Burger Hub,84257944,Johannesburg,Cheeseburger#109.99|Bacon Burger#129.99|BBQ Burger#139.99|Double Cheeseburger#159.99|Fries#39.99|Curly Fries#49.99|Nuggets#59.99|Milkshake#69.99|Coke#19.99
+Taco Fiesta,70298214,Potchefstroom,Taco Supreme#99.99|Burrito#119.99|Quesadilla#109.99|Churros#59.99|Chips & Salsa#49.99|Enchiladas#129.99|Nachos#89.99
