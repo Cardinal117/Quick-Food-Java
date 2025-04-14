@@ -1,14 +1,14 @@
-# Use OpenJDK image
+# Use a lightweight JDK image
 FROM openjdk:17-slim
 
 # Set working directory
 WORKDIR /app
 
-# Copy Java source files into the container
-COPY src/ ./src/
+# Copy all .java files from your source folder into the container
+COPY ./src/ ./src/
 
-# Compile the Java files
+# Compile all .java files
 RUN javac src/*.java
 
-# Set the entrypoint (change if package name exists)
+# Run the main class
 CMD ["java", "-cp", "src", "Main"]
