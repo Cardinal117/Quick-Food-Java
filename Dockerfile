@@ -4,7 +4,7 @@ FROM openjdk:17-slim
 # Set working directory inside the container
 WORKDIR /app
 
-# Copy all .java files into the container's working directory
+# Copy all .java files into the container's directory
 COPY . .
 
 # Compile all Java files
