@@ -52,17 +52,4 @@ public class Restaurant {
   public String getLocation() {
     return location;
   }
-
-  // Setters
-  public void setName(String name) {
-    this.name = name;
-  }
-
-  public void setLocation(String location) {
-    this.location = location;
-  }
-
-  public void setContactNum(String newNum) {
-    this.contactNum = newNum;
-  }
 }
